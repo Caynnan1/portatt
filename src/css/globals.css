@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --background-primary: #171717ff;
+  --color-primary: rgb(58, 253, 116);
+  --color-back-primary: rgba(58, 253, 116, 0.041);
+}

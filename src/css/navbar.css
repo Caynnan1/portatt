@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: var(--background-primary);
+    color: white;
+    padding-top: 20px;
+}
+
+.container-links{
+    display: flex;
+    gap: 40px;
+}
+
+nav a{
+    border-bottom: 2px solid var(--color-primary);
+}

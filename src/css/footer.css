@@ -1,0 +1,6 @@
+footer{
+    padding: 20px;
+    background-color: var(--background-primary);
+    border-top: 2px solid var(--color-primary);
+    color: white;
+}
