@@ -30,6 +30,11 @@ export default function Home() {
                 <i class='bx bxl-react' ></i>
                 <i class='bx bxl-nodejs' ></i>
                 <i class='bx bxl-php' ></i>
+                <i class='bx bxl-python'></i>
+                <i class='bx bxl-github' ></i>
+                <i class='bx bxl-git' ></i>
+                <i class='bx bxs-file-js' ></i>
+                <i class='bx bxl-vuejs' ></i>
                 </div>
             </div>
             <div>
