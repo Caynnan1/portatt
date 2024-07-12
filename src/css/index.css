@@ -136,6 +136,12 @@
   }
 }
 
+@media screen and (max-width: 490px) {
+  .container-icons i{
+    font-size: 15px;
+  }
+}
+
 @media screen and (max-width: 1108px) {
   .container-home{
     flex-direction: column;
