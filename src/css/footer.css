@@ -3,4 +3,14 @@ footer{
     background-color: var(--background-primary);
     border-top: 2px solid var(--color-primary);
     color: white;
+    height: 50vh;
+}
+
+footer::after{
+    content: "";
+    position: absolute;
+    right: 0;
+    border-radius: 100%;
+    padding: 60px;
+    background-color: var(--color-primary);
 }

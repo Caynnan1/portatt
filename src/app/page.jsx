@@ -13,7 +13,7 @@ export default function Home() {
               <span className="container-span">Olá Me chamo Caynnan, Sou Programador FullStack, Tenho 17 Anos, Campeão de Robotica Regional De Barretos. Atualmente classificado para a segunda fase O.B.I e Fase Estadual da: O.B.R</span>
           </div>
           <div>
-            <img className="container-avatar" src="https://cdn.discordapp.com/attachments/1261056748366725253/1261057733109616721/IMG-20231208-WA0120.jpg?ex=66919308&is=66904188&hm=12c0a377aad1169aa88226d90446af2a0a3be4d1d47cacc180b24e1d2c812415&"></img>
+            <img className="container-avatar" src="https://cdn.discordapp.com/attachments/1261533224690253935/1261535188169789540/IMG-20231208-WA0120.jpg?ex=66934fb3&is=6691fe33&hm=1d6117778690dfa3bd3ce9736f708f6bb622de73db4c32c9e5b9e27d8cffd902&"></img>
           </div>
 
           <i class='bx bx-down-arrow-alt'></i>
